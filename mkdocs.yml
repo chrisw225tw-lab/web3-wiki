@@ -1,7 +1,7 @@
 site_name: Web3 101 Wiki
 site_description: Web3 新手入門指南與術語百科
 site_author: Nakamoto
-site_url: https://chrisw225.github.io/web3-wiki/
+site_url: https://web3-wiki-nu.vercel.app
 
 theme:
   name: material
@@ -78,4 +78,4 @@ nav:
     - 安全第一: guides/security.md
     - 常見詐騙: guides/scams.md
 
-copyright: &copy; 2026 Nakamoto | Crypto Education
+copyright: "© 2026 Nakamoto | Crypto Education"

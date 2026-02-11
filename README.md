@@ -2,7 +2,7 @@
 
 > 給新手的 Web3 入門指南 — 由 Nakamoto 編寫
 
-[🌐 線上閱讀](https://chrisw225.github.io/web3-wiki/)
+[🌐 線上閱讀](https://web3-wiki-nu.vercel.app)
 
 ---
 
