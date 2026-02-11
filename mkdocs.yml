@@ -65,6 +65,7 @@ nav:
     - 區塊鏈基礎: concepts/blockchain-basics.md
     - Layer 1 公鏈: concepts/layer1.md
     - Layer 2 擴容: concepts/layer2.md
+    - Web3 知名公司: concepts/web3-companies.md
     - 錢包與私鑰: concepts/wallets-keys.md
     - 智能合約: concepts/smart-contracts.md
     - Gas 費用: concepts/gas-fees.md
@@ -76,6 +77,7 @@ nav:
     - Hyperliquid: concepts/hyperliquid.md
   - 術語百科:
     - 術語總覽: terms/index.md
+    - 如何使用連結: how-to-use-links.md
     - 交易所:
       - CEX: terms/cex.md
       - DEX: terms/dex.md
