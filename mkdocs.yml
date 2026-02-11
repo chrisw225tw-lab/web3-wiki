@@ -57,7 +57,7 @@ extra:
 
 nav:
   - 首頁: index.md
-  - 如何使用連結: how-to-use-links.md
+  - Web3 公司: concepts/web3-companies.md
   - Web3 是什麼:
     - 什麼是 Web3: what-is-web3.md
     - Web3 vs Web2: web3-vs-web2.md
@@ -65,7 +65,6 @@ nav:
     - 區塊鏈基礎: concepts/blockchain-basics.md
     - Layer 1 公鏈: concepts/layer1.md
     - Layer 2 擴容: concepts/layer2.md
-    - Web3 知名公司: concepts/web3-companies.md
     - 錢包與私鑰: concepts/wallets-keys.md
     - 智能合約: concepts/smart-contracts.md
     - Gas 費用: concepts/gas-fees.md
