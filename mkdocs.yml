@@ -1,0 +1,81 @@
+site_name: Web3 101 Wiki
+site_description: Web3 新手入門指南與術語百科
+site_author: Nakamoto
+site_url: https://chrisw225.github.io/web3-wiki/
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+
+plugins:
+  - search:
+      lang: zh
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/chrisw225
+  generator: false
+
+nav:
+  - 首頁: index.md
+  - Web3 是什麼:
+    - 什麼是 Web3: what-is-web3.md
+    - Web3 vs Web2: web3-vs-web2.md
+  - 核心概念:
+    - 區塊鏈基礎: concepts/blockchain-basics.md
+    - 錢包與私鑰: concepts/wallets-keys.md
+    - 智能合約: concepts/smart-contracts.md
+    - Gas 費用: concepts/gas-fees.md
+    - DeFi 基礎: concepts/defi-basics.md
+    - NFT 基礎: concepts/nft-basics.md
+    - DAO 基礎: concepts/dao-basics.md
+  - 術語表:
+    - 全部術語: terms/index.md
+    - 區塊鏈術語: terms/blockchain.md
+    - 交易術語: terms/trading.md
+    - DeFi 術語: terms/defi.md
+    - 安全術語: terms/security.md
+  - 新手指南:
+    - 第一個錢包: guides/first-wallet.md
+    - 安全第一: guides/security.md
+    - 常見詐騙: guides/scams.md
+
+copyright: &copy; 2026 Nakamoto | Crypto Education
