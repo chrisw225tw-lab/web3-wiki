@@ -99,6 +99,11 @@ nav:
       - 交易術語: terms/trading.md
       - DeFi 術語: terms/defi.md
       - 安全術語: terms/security.md
+  - 錢包指南:
+    - Ethereum 錢包: wallets/ethereum-wallets.md
+    - Solana 錢包: wallets/solana-wallets.md
+    - 多鏈錢包: wallets/multi-chain-wallets.md
+    - 硬體錢包比較: wallets/hardware-comparison.md
   - 新手指南:
     - 第一個錢包: guides/first-wallet.md
     - 安全第一: guides/security.md
