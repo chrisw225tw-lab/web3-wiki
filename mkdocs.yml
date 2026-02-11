@@ -61,12 +61,17 @@ nav:
     - Web3 vs Web2: web3-vs-web2.md
   - 核心概念:
     - 區塊鏈基礎: concepts/blockchain-basics.md
+    - Layer 1 公鏈: concepts/layer1.md
+    - Layer 2 擴容: concepts/layer2.md
     - 錢包與私鑰: concepts/wallets-keys.md
     - 智能合約: concepts/smart-contracts.md
     - Gas 費用: concepts/gas-fees.md
     - DeFi 基礎: concepts/defi-basics.md
     - NFT 基礎: concepts/nft-basics.md
     - DAO 基礎: concepts/dao-basics.md
+    - 穩定幣: concepts/stablecoins.md
+    - Meme 幣: concepts/meme-coins.md
+    - Hyperliquid: concepts/hyperliquid.md
   - 術語表:
     - 全部術語: terms/index.md
     - 區塊鏈術語: terms/blockchain.md
