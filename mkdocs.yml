@@ -31,6 +31,7 @@ theme:
 plugins:
   - search:
       lang: zh
+  - roamlinks
   - minify:
       minify_html: true
 
@@ -56,6 +57,7 @@ extra:
 
 nav:
   - 首頁: index.md
+  - 如何使用連結: how-to-use-links.md
   - Web3 是什麼:
     - 什麼是 Web3: what-is-web3.md
     - Web3 vs Web2: web3-vs-web2.md
@@ -72,12 +74,27 @@ nav:
     - 穩定幣: concepts/stablecoins.md
     - Meme 幣: concepts/meme-coins.md
     - Hyperliquid: concepts/hyperliquid.md
-  - 術語表:
-    - 全部術語: terms/index.md
-    - 區塊鏈術語: terms/blockchain.md
-    - 交易術語: terms/trading.md
-    - DeFi 術語: terms/defi.md
-    - 安全術語: terms/security.md
+  - 術語百科:
+    - 術語總覽: terms/index.md
+    - 交易所:
+      - CEX: terms/cex.md
+      - DEX: terms/dex.md
+    - 投資與交易:
+      - VC套現: terms/vc-dump.md
+      - 衍生品: terms/derivatives.md
+    - 合規:
+      - KYC: terms/kyc.md
+      - AML: terms/aml.md
+    - 錢包與安全:
+      - 硬體錢包: terms/hardware-wallets.md
+      - Ledger: terms/ledger.md
+      - Trezor: terms/trezor.md
+      - GridPlus: terms/gridplus.md
+    - 專業術語:
+      - 區塊鏈術語: terms/blockchain.md
+      - 交易術語: terms/trading.md
+      - DeFi 術語: terms/defi.md
+      - 安全術語: terms/security.md
   - 新手指南:
     - 第一個錢包: guides/first-wallet.md
     - 安全第一: guides/security.md
